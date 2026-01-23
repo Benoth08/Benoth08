@@ -4,7 +4,7 @@
 
 ### *Senior Data Scientist | PhD | Industrial AI*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Physical+AI+Expert;LLM+%2B+Neural+ODEs+Researcher;From+Noisy+Signals+to+Value;MLOps+Practitioner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Physical+AI+Expert;LLM+%2B+Neural+ODEs+Researcher;From+Noisy+Signals+to+Value;GenAI+%26+Production+Engineering)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-fere-data-scientist)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michael.fere@gmail.com)
@@ -19,7 +19,7 @@
 > *"La meilleure IA est celle qui comprend les contraintes du monde réel."*
 
 Je suis un **Senior Data Scientist** avec **10+ ans d'expérience** dans la transformation de données physiques complexes en solutions industrielles.
-Mon background de **Docteur en Chimiométrie et Traitement du Signal** (CNRS/Université de Reims) me permet de comprendre la donnée brute (bruit, dérive, physique), tandis que mes compétences actuelles en **MLOps** et **GenAI** me permettent de la déployer à l'échelle.
+Mon background de **Docteur en Chimiométrie et Traitement du Signal** (CNRS/Université de Reims) me permet de comprendre la donnée brute (bruit, dérive, physique), tandis que mes compétences en **GenAI** et mon apprentissage actif du **MLOps** me permettent de concevoir des solutions prêtes pour la production.
 
 * 🔭 **Focus R&D :** Hybridation **LLM + Neural ODEs** (Project Taelys)
 * 🏭 **Spécialité :** Modèles robustes pour l'IoT, l'Industrie 4.0 et la HealthTech
@@ -30,27 +30,31 @@ Mon background de **Docteur en Chimiométrie et Traitement du Signal** (CNRS/Uni
 
 ## 🧠 Project Taelys : La "Chirurgie des LLM"
 
-**Architecture Hybride pour l'IA Temporelle**
+**Architecture Hybride pour l'IA Temporelle et le Raisonnement Causal**
 
-Je développe une architecture expérimentale visant à intégrer la **dynamique continue** (Physique) au sein des **Transformers** (Langage).
+Je développe une architecture expérimentale visant à intégrer la **dynamique continue** (Physique) au sein des **Transformers** (Langage), avec une boucle de rétroaction permettant un raisonnement multi-étapes.
 
 ```mermaid
 graph LR
-    A[Input: Time Series + Text] --> B(Tokenization);
+    A[Input: Sequential Data] --> B(Tokenization);
     B --> C{Sparse Router / Gating};
-    C -->|Static Information| D[Frozen LLM Layers<br/>Qwen];
-    C -->|Dynamic Context| E[Liquid Neural Network<br/>CfC];
+    C -->|Static Knowledge| D[Frozen LLM Layers<br/>Qwen];
+    C -->|Dynamic State| E[Liquid Neural Network<br/>CfC];
     D --> F[Fusion Layer];
     E --> F;
     F --> G[Context-Aware Prediction];
+    F -.->|Top-Down Feedback<br/>Inhibition| E;
     
     style E fill:#f9f,stroke:#333,stroke-width:2px
     style C fill:#bbf,stroke:#333,stroke-width:2px
+    style F fill:#dfd,stroke:#333,stroke-width:2px
 ```
 
-**Concept :** Injection de couches **CfC** (Closed-form Continuous-time) dans un backbone **Qwen** via **Sparse Upcycling**.
+**Concept :** Injection de couches **CfC** (Closed-form Continuous-time) dans un backbone **Qwen** via **Sparse Upcycling**, avec une **boucle de rétroaction Top-Down** permettant au modèle de raffiner son raisonnement.
 
-**Objectif :** Traiter des séries temporelles irrégulières avec la puissance de généralisation des LLMs.
+**Objectif :** Traiter la séquentialité logique textuelle et la causalité comme une dynamique temporelle continue, permettant un raisonnement multi-étapes (Mode "Reasoning Loop").
+
+**Innovation clé :** La boucle de feedback (Fusion → CfC) active un mode de raisonnement itératif, où le modèle peut inhiber ou renforcer certaines voies neuronales selon le contexte global.
 
 **Stack :** PyTorch, Hugging Face, torchdiffeq, Neural Circuit Policies.
 
