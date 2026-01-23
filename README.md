@@ -21,7 +21,7 @@
 Je suis un **Senior Data Scientist** avec **10+ ans d'expérience** dans la transformation de données physiques complexes en solutions industrielles.
 Mon background de **Docteur en Chimiométrie et Traitement du Signal** (CNRS/Université de Reims) me permet de comprendre la donnée brute (bruit, dérive, physique), tandis que mes compétences en **GenAI** et mon apprentissage actif du **MLOps** me permettent de concevoir des solutions prêtes pour la production.
 
-* 🔭 **Focus R&D :** Hybridation **LLM + Neural ODEs** (Project Taelys)
+* 🔭 **Focus R&D :** Hybridation **LLM + Neural Liquid (CFC)** (Project Taelys)
 * 🏭 **Spécialité :** Modèles robustes pour l'IoT, l'Industrie 4.0 et la HealthTech
 * 📊 **Domaines d'expertise :** Spectroscopie, Imagerie Hyperspectrale, Séries Temporelles, Computer Vision
 * ⚡ **Soft Skills :** Vulgarisation scientifique, Collaboration R&D/Métier, Transfert Labo → Industrie
