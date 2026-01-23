@@ -21,14 +21,14 @@
 Je suis un **Senior Data Scientist** avec **10+ ans d'expérience** dans la transformation de données physiques complexes en solutions industrielles.
 Mon background de **Docteur en Chimiométrie et Traitement du Signal** (CNRS/Université de Reims) me permet de comprendre la donnée brute (bruit, dérive, physique), tandis que mes compétences en **GenAI** et mon apprentissage actif du **MLOps** me permettent de concevoir des solutions prêtes pour la production.
 
-* 🔭 **Focus R&D :** Hybridation **LLM + Neural Liquid (CFC)** (Project EXALIA)
+* 🔭 **Focus R&D :** Hybridation **LLM + Neural ODEs** (Project Taelys)
 * 🏭 **Spécialité :** Modèles robustes pour l'IoT, l'Industrie 4.0 et la HealthTech
 * 📊 **Domaines d'expertise :** Spectroscopie, Imagerie Hyperspectrale, Séries Temporelles, Computer Vision
 * ⚡ **Soft Skills :** Vulgarisation scientifique, Collaboration R&D/Métier, Transfert Labo → Industrie
 
 ---
 
-## 🧠 Project EXALIA : La "Chirurgie des LLM"
+## 🧠 Project Taelys : La "Chirurgie des LLM"
 
 **Architecture Hybride pour l'IA Temporelle et le Raisonnement Causal**
 
@@ -131,16 +131,19 @@ graph LR
 ### 🚀 **Industrial AI & Edge Computing** | SP3H
 **2021 - Présent** • Deeptech • Aix-en-Provence
 
-Conception de l'intelligence embarquée des capteurs **FluidBOX**.
+Conception de l'intelligence embarquée des **mini capteurs intelligents FluidBOX**, montés sur véhicules utilitaires et VL (Véhicules Légers).
 
-**Challenge :** Modèles ML dérivant à cause des variations thermiques (-10°C à +60°C) et conditions industrielles réelles.
+**Challenge :** Modèles ML dérivant à cause des variations thermiques extrêmes (-20°C à +85°C) et des conditions industrielles réelles sur véhicules en circulation.
+
+**Mission :** Identification en temps réel de la **qualité des carburants** et de leur **nature** (fossile vs carburant de synthèse/biocarburant).
 
 **Solutions développées :**
-- ⚙️ Conception et optimisation de **modèles ML** pour identification de biocarburants renouvelables
-- 🛡️ Algorithmes de **correction de baseline adaptatifs** et modèles de régression robustes (MATLAB/Python)
-- 📊 Développement de pipelines de **preprocessing** pour données haute dimension
+- ⚙️ Conception et optimisation de **modèles ML** robustes aux variations thermiques extrêmes pour classification carburants
+- 🛡️ Algorithmes de **correction de baseline adaptatifs** résistants aux vibrations et dérives instrumentales (MATLAB/Python)
+- 📊 Développement de pipelines de **preprocessing** pour données spectrales haute dimension en environnement embarqué
+- 🚗 Adaptation des modèles pour déploiement **Edge** sur véhicules (contraintes mémoire, temps réel)
 
-**Impact :** Déploiement industriel en raffinerie, réduction drastique de l'empreinte carbone via optimisation temps réel.
+**Impact :** Déploiement industriel sur véhicules, contribution à la traçabilité des carburants et réduction de l'empreinte carbone via optimisation des motorisations.
 
 ---
 
