@@ -4,7 +4,6 @@
 **Senior Data Scientist | PhD | Industrial AI**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-fere-data-scientist)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:michael.fere@gmail.com)
 [![Location](https://img.shields.io/badge/Aix--en--Provence-France-blue?style=flat-square)](https://www.google.com/maps/place/Aix-en-Provence)
 
 *"Transforming complex physical signals into actionable AI solutions"*
@@ -209,6 +208,5 @@ Seeking opportunities where scientific rigor meets business impact:
 *Available for challenging missions in Industrial AI, HealthTech, and Advanced Generative AI*
 
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-fere-data-scientist)
-[![Email](https://img.shields.io/badge/Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:michael.fere@gmail.com)
 
 </div>
