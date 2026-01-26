@@ -1,7 +1,7 @@
 <div align="center">
 
 # Michaël Féré
-**Senior AI Engineer (Physical AI) | PhD | Signal Processing**
+**Senior ML/AI Engineer (Physical AI) | PhD | Signal Processing**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-fere-data-scientist)
 [![Location](https://img.shields.io/badge/Aix--en--Provence-France-blue?style=flat-square)](https://www.google.com/maps/place/Aix-en-Provence)
