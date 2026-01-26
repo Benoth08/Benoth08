@@ -78,7 +78,7 @@ Feasibility and development of a non-invasive sexing solution using Hyperspectra
 - **Models:** Llama, Qwen, Mistral.
 
 **Engineering & MLOps** *(Active Focus)*
-- **Tools:** Docker, Git, Linux (Bash).
+- **Tools:** Docker, Git, Linux.
 - **Deployment:** Flask APIs, Model Monitoring (Drift detection).
 - **Cloud:** Familiarity with AWS/Azure ecosystems.
 
