@@ -33,9 +33,7 @@ science · Vision par ordinateur · Traitement du signal temporel et
 spectral.
 
 **Disponible pour.** IA industrielle · Deeptech · Edge ML · Capteurs
-intelligents · Applications spectroscopie / chimiométrie. Entreprises
-visées : Thalès (Toulon), Framatome (Cadarache), TOPNIR Systems, CEA.
-Télétravail ou sur site en région PACA.
+intelligents · Applications spectroscopie / chimiométrie.
 
 ---
 
