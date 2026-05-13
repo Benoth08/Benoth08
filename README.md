@@ -31,9 +31,7 @@ noise, edge constraints, sensor degradation, temperature swings.
 · Computer vision · Time-series and spectral signal processing.
 
 **Open to.** Industrial AI · Deeptech · Edge ML · Smart sensors ·
-Spectroscopy & chemometrics applications. Companies on my radar:
-Thales (Toulon), Framatome (Cadarache), TOPNIR Systems, CEA.
-Remote-friendly or on-site in PACA region.
+Spectroscopy & chemometrics applications.
 
 ---
 
